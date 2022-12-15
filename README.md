@@ -4,10 +4,12 @@
 This repo contains the code for:
 
 [Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks](https://arxiv.org/abs/2210.06601)
-Kuan Fang, Patrick Yin, Ashvin Nair, Homer Walke, Gengchen Yan, Sergey Levine. 
-Conference on Robot Learning (CoRL), 2022.
 
-[Project Page](https://sites.google.com/view/project-flap)
+[Kuan Fang](https://kuanfang.github.io/), [Patrick Yin](https://patrickyin.me/), [Ashvin Nair](https://ashvin.me/), [Homer Walke](https://homerwalke.com/), [Gengchen Yan](https://www.linkedin.com/in/gengchen-matt-yan/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/). 
+
+Conference on Robot Learning (CoRL), 2022. Oral Presentation
+
+[[Project Page](https://sites.google.com/view/project-flap)]
 
 BibTex:
 ```
