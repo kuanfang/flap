@@ -27,7 +27,7 @@ BibTex:
 
 Install and use the included anaconda environment.
 ```
-$ conda env create -f docker/flap.yml
+$ conda env create -f flap.yml
 $ source activate flap
 (flap) $
 ```
